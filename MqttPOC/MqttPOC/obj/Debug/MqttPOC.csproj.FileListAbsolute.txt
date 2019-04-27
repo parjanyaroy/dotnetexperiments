@@ -1,0 +1,10 @@
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\bin\Debug\MqttPOC.exe.config
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\bin\Debug\MqttPOC.exe
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\bin\Debug\MqttPOC.pdb
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\obj\Debug\MqttPOC.csprojAssemblyReference.cache
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\obj\Debug\MqttPOC.csproj.CoreCompileInputs.cache
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\obj\Debug\MqttPOC.exe
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\obj\Debug\MqttPOC.pdb
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\bin\Debug\M2Mqtt.Net.dll
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\parjroy\source\repos\MqttPOC\MqttPOC\obj\Debug\MqttPOC.csproj.CopyComplete

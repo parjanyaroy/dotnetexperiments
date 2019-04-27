@@ -1,0 +1,12 @@
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Dropbox.Api.dll
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Dropbox.Api.xml
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\PCAutomation.csproj.CoreCompileInputs.cache
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\PCAutomation.csproj.CopyComplete
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\PCAutomation.dll.config
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\PCAutomation.dll
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\PCAutomation.pdb
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\PCAutomation.dll
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\PCAutomation.pdb
+C:\Users\parjroy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\PCAutomation.csprojAssemblyReference.cache

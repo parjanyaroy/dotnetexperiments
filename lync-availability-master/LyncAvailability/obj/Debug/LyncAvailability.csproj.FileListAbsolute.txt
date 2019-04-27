@@ -1,0 +1,12 @@
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\bin\Debug\LyncAvailability.exe.config
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\bin\Debug\LyncAvailability.exe
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\bin\Debug\LyncAvailability.pdb
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\bin\Debug\Microsoft.Office.Uc.dll
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\bin\Debug\Microsoft.Lync.Model.xml
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\obj\Debug\LyncAvailability.csprojAssemblyReference.cache
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\obj\Debug\LyncAvailability.Properties.Resources.resources
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\obj\Debug\LyncAvailability.csproj.GenerateResource.cache
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\obj\Debug\LyncAvailability.csproj.CoreCompileInputs.cache
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\obj\Debug\LyncAvailability.csproj.CopyComplete
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\obj\Debug\LyncAvailability.exe
+C:\Users\parjroy\Downloads\lync-availability-master\LyncAvailability\obj\Debug\LyncAvailability.pdb

@@ -1,0 +1,13 @@
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\bin\Debug\SkypeIOT.exe.config
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\bin\Debug\SkypeIOT.exe
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\bin\Debug\SkypeIOT.pdb
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\obj\Debug\SkypeIOT.Form1.resources
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\obj\Debug\SkypeIOT.Properties.Resources.resources
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\obj\Debug\SkypeIOT.csproj.GenerateResource.cache
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\obj\Debug\SkypeIOT.csproj.CoreCompileInputs.cache
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\obj\Debug\SkypeIOT.exe
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\obj\Debug\SkypeIOT.pdb
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\obj\Debug\SkypeIOT.csprojAssemblyReference.cache
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\bin\Debug\Microsoft.Lync.Model.dll
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\obj\Debug\SkypeIOT.csproj.CopyComplete
+C:\Users\parjroy\source\repos\SkypeIOT\SkypeIOT\bin\Debug\Microsoft.Lync.Model.xml
